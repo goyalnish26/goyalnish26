@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nishchal%20Goyal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Offensive%20Security%20%7C%20Building%20things%20that%20break%20(and%20fix)&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+%2F+APIs+%2F+Security;Pivoting+into+Offensive+Security+%26+Pentesting;Breaking+systems+to+understand+how+to+defend+them;ECE+%E2%86%92+Backend+%E2%86%92+Cybersecurity" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+Python+%2F+APIs+%2F+Security;Pivoting+into+Offensive+Security+%26+Pentesting;Breaking+systems+to+understand+how+to+defend+them;ECE+%E2%86%92+Backend+%E2%86%92+Cybersecurity" alt="Typing SVG" /></a>
 
 <img src="https://img.shields.io/badge/B.Tech-Electronics_%26_Communication-6D28D9?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/SKIT_Jaipur-Batch_2027-7C3AED?style=flat-square"/>
@@ -215,13 +215,6 @@ Working on mobile app backend systems with deep Odoo 15 Sales module integration
 
 <br/>
 
-## ⟡ Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/goyalnish26/goyalnish26/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<br/>
 
 ## ⟡ Current Focus
 
